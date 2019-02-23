@@ -1,6 +1,4 @@
 # Tic Tac Toe Game
-
-## Description
 The objetive of this project was to recreate the tic tac toe game. This was the first milestone project from the course: Python Bootcamp
 
 Here are the requirements:
